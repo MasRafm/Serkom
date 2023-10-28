@@ -51,7 +51,7 @@ class _LokasiState extends State<Lokasi> {
           gotoMap();
         },
         child: const Text(
-          "Goto Google Map",
+          "Pergi ke Map",
           style: TextStyle(fontSize: 20),
         ));
   }
