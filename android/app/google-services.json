@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "127427050349",
+    "firebase_url": "https://serkom-75aeb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "serkom-75aeb",
+    "storage_bucket": "serkom-75aeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127427050349:android:903fbf53ed476c74ea7864",
+        "android_client_info": {
+          "package_name": "com.example.kpu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Ksf6uZ4tGTejXDy5kdswVUDPmS9M1lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
